@@ -1,0 +1,20 @@
+.cart-widget {
+  position: absolute;
+  cursor: pointer;
+  text-align: center;
+  top: 10px;
+  right: 20px;
+  font-weight: 700;
+}
+
+.cart-widget .display {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-color: white;
+  border-radius: 50%;
+  font-size: 12px;
+  position: absolute;
+  text-align: center;
+  line-height: 17px;
+}
