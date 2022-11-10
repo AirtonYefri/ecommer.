@@ -8,7 +8,6 @@ import Offcanvas from 'react-bootstrap/Offcanvas';
 import logo from './assets/logo.png';
 import CartWidget from './CartWidget';
 
-import ItemListContainer from './ItemListContainer.js';
 
 const divStyle = {
 width: 40
@@ -72,7 +71,6 @@ function NavBar() {
             </Navbar.Offcanvas>
             <div nameclas="ms-auto pe-md-5 navbar-nav">
              <CartWidget />
-             <ItemListContainer />
     </div>
                    
    

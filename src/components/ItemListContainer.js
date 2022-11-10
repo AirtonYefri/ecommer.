@@ -7,5 +7,7 @@ const ItemListContainer = (props) => {
     </section>
   );
 };
-
+ItemListContainer.defaultProps ={
+title: 'Mis productos'
+}
 export default ItemListContainer;
