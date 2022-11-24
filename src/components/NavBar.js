@@ -5,7 +5,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Offcanvas from 'react-bootstrap/Offcanvas';
-import logo from './assets/logo.png';
+import logo from './assets/imagenes/logo.png';
 import CartWidget from './CartWidget';
 
 
@@ -70,7 +70,7 @@ function NavBar() {
               </Offcanvas.Body>
             </Navbar.Offcanvas>
             <div nameclas="ms-auto pe-md-5 navbar-nav">
-             <CartWidget />
+
     </div>
                    
    

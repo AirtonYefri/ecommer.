@@ -1,10 +1,12 @@
-
 // Own components
 import ItemList from "./ItemList";
 
-// Images
-import Keyboard from "./assets/imagenes/imagen1.png";
-import Mouse from "./assets/imagenes/imagen2.jpeg";
+// Imageness
+import Keyboard from "../assets/imagenes/imagen1.png";
+import Keyboard1 from "../assets/imagenes/imagen2.jpeg";
+import Mouse from "../assets/imagenes/imagen3.jpeg";
+import Mouse1 from "../assets/imagenes/imagen4.jpg";
+
 
 const productos = [
   {
