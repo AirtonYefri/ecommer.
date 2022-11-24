@@ -44,5 +44,8 @@ const ItemListContainer = () => {
     </div>
   );
 };
+ItemListContainer.defaultProps ={
+title: 'Mis productos'
+}
 
 export default ItemListContainer;

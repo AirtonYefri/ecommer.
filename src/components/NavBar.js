@@ -71,6 +71,8 @@ function NavBar() {
             </Navbar.Offcanvas>
             <div nameclas="ms-auto pe-md-5 navbar-nav">
 
+             <CartWidget />
+
     </div>
                    
    
